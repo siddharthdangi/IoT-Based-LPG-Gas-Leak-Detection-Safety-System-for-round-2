@@ -83,6 +83,7 @@ The system follows safety-first principles:
 - Saksham – Hardware component procurement and circuit assembly
 - Anshika – Sensor testing and threshold tuning
 - Siddharth – System design, architecture planning, flowcharts, and documentation
+- Sunidhi – Research on real-world use cases, safety considerations, and validation of problem statement
 
 ---
 
